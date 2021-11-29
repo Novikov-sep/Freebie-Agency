@@ -1486,8 +1486,8 @@ body.ie ._ibg img {
 .hide {
   -webkit-animation-name: hide;
           animation-name: hide;
-  -webkit-animation-duration: 5s;
-          animation-duration: 5s;
+  -webkit-animation-duration: 2s;
+          animation-duration: 2s;
   -webkit-animation-fill-mode: forwards;
           animation-fill-mode: forwards;
 }
